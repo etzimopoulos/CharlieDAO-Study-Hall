@@ -15,8 +15,8 @@
 
 | Name | Description | Link |
 | --------------- | --------------- | --------------- |
-|  |  |  |
-|  |  |  |
+| Introduction to Blockchain through Cryptoeconomics — Part 1: Bitcoin | This is part one of a series about the cryptoeconomic incentive systems that underlie different blockchain protocols and emerging research questions in the blockchain technology space |  https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9|
+| Introduction to Blockchain through Cryptoeconomics, Part 2: Proof of Work and Nakamoto Consensus | This is part two of an introductory series about the cryptoeconomic incentive systems that underlie different blockchain protocols and emerging research questions in the blockchain technology space | https://medium.com/mechanism-labs/introduction-to-bitcoin-through-cryptoeconomics-part-2-proof-of-work-and-nakamoto-consensus-1252f6a6c012 |
 |  |  |  |
 
 ## Video
